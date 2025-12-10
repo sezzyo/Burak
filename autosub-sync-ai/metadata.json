@@ -1,0 +1,5 @@
+{
+  "name": "AutoSub Sync AI",
+  "description": "Upload a video and a transcript to automatically generate a synchronized SRT subtitle file using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
